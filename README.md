@@ -32,7 +32,7 @@ Simulated data for 20 products over 250 days, in three tables: Products (20 rows
 - P013 and P014: test a small price increase.
 - P004, P007 and P017: priced well below Competitor 1, so there is room to raise prices.
 - P003 and P005: most price-sensitive, so avoid increases and watch Competitor 1 on P003 and Competitor 2 on P005.
-- 
+  
 ## Files
 - MarketDynamic (1).ipynb: cleaning and analysis
 - DynamicPrice.pbix: Power BI dashboard
