@@ -17,11 +17,16 @@ Simulated data for 20 products over 250 days, in three tables: Products (20 rows
 
 ## Key Insights
 -> Demand is price-sensitive. The average elasticity is -1.70, and all 20 products are negative (p < 0.01). 18 of 20 are elastic (below -1), so a price cut raises revenue for them.
+
 -> Most sensitive products: P003 (-2.75), P005 (-2.36) and P016 (-2.30). A 1% price change moves sales by about 2.3% to 2.75%.
+
 -> Least sensitive products: P013 (-0.77) and P014 (-0.79) are inelastic, so a small price increase should raise revenue.
+
 -> Competitor 1 is pricier than you by 3.23% on average, and the gap is largest on P017 (+10.3%), P004 (+10.1%) and P007 (+9.3%).
-Competitor 2 is cheaper than you by 2.17% on average, most on P010 (-8.8%) and P018 (-8.0%).
-Sales spikes line up with price dips. Your price fell in March and July 2025, and daily sales rose in both months.
+
+-> Competitor 2 is cheaper than you by 2.17% on average, most on P010 (-8.8%) and P018 (-8.0%).
+
+-> Sales spikes line up with price dips. Your price fell in March and July 2025, and daily sales rose in both months.
 
 ## Recommendations
 - P013 and P014: test a small price increase.
